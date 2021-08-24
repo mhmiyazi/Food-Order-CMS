@@ -43,7 +43,7 @@
 
 # More feature will be coming soon.......
 
-<h2>Take a look</h2>
+<h2>Take a look:</h2>
 <img height="" width="" src="preview/screencapture-restaurant-mhmiyazi-restaurant1-2021-08-17-00_13_58.png" />
 <img height="" width="" src="preview/screencapture-restaurant-mhmiyazi-restaurant1-admin-manage-food-php-2021-08-17-00_59_16.png" />
 <img height="" width="" src="preview/screencapture-restaurant-mhmiyazi-restaurant1-admin-manage-order-php-2021-08-17-01_00_36.png" />
