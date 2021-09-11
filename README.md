@@ -41,10 +41,11 @@
   3.User Session Tracking <br>
 </blockquote>
 <blockquote>
- Customer: https://restaurant.mhmiyazi.com/restaurant1/
- Admin: https://restaurant.mhmiyazi.com/restaurant1/admin
- User: admin
- Password: admin
+ <br>
+ Customer: https://restaurant.mhmiyazi.com/restaurant1/  <br>
+ Admin: https://restaurant.mhmiyazi.com/restaurant1/admin  <br>
+ User: admin <br>
+ Password: admin  <br> <br>
  </blockquote>
 # More feature will be coming soon.......
 
