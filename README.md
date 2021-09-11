@@ -40,7 +40,12 @@
   2.UnAuthorised Access Prevent <br>
   3.User Session Tracking <br>
 </blockquote>
-
+<blockquote>
+ Customer: https://restaurant.mhmiyazi.com/restaurant1/
+ Admin: https://restaurant.mhmiyazi.com/restaurant1/admin
+ User: admin
+ Password: admin
+ </blockquote>
 # More feature will be coming soon.......
 
 <h2>Take a look:</h2>
